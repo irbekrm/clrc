@@ -26,7 +26,7 @@ Exercise 2.1-4
 **Input**: A sequence of binary digits `A={a<sub>1</sub>, a<sub>2</sub>,...,a<sub>n</sub>}`, a sequence of binary digits
 `B={b<sub>1</sub>,b<sub>2</sub>,...b<sub>n</sub>}`
 
-**Output**: A sequence of binary digits `C={c<sub>1</sub>,c<sub>2</sub>,...c<sub>n+1</sub>}'
+**Output**: A sequence of binary digits `C={c<sub>1</sub>,c<sub>2</sub>,...c<sub>n+1</sub>}`
 
 BINARY ADDITION:
 
